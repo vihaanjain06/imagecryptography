@@ -36,6 +36,26 @@ Caesar Cipher
 Vigenère cipher
 - <img width="706" height="320" alt="image" src="https://github.com/user-attachments/assets/af3924a4-c781-4fbf-976a-e6251d10ba5b" />
 
+### Decryption
+XOR Cipher
+- Original Image
 
 
+  <img width="100" height="100" alt="ref_gry_x" src="https://github.com/user-attachments/assets/485bb4bc-7220-4e5f-9b43-0b954b40eae8" />
+- <img width="747" height="260" alt="Screenshot 2025-08-14 094213" src="https://github.com/user-attachments/assets/f1fa376a-a373-4869-a175-bbf5a829d946" />
 
+
+Caesar Cipher
+- Original Image
+
+  
+  <img width="100" height="100" alt="ref_gry_c" src="https://github.com/user-attachments/assets/20f8cb2a-1c34-4bf2-a292-9fb2e0e8c7a0" />
+- <img width="955" height="266" alt="image" src="https://github.com/user-attachments/assets/e30e9b74-114a-4075-a562-c4040bac734e" />
+
+
+Vigenère cipher
+- Original Image
+
+
+  <img width="100" height="100" alt="ref_col_v" src="https://github.com/user-attachments/assets/7a161b37-31ec-4498-9628-863ea0c8fc37" />
+- <img width="956" height="277" alt="image" src="https://github.com/user-attachments/assets/609f7fdb-895b-45cc-8a8e-6c1db72976a9" />
